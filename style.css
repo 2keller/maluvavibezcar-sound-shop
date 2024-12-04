@@ -1,0 +1,35 @@
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+                url('images/hero-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* About Section */
+.about-section {
+    background: url('images/about-bg.jpg') no-repeat center center/cover;
+    padding: 50px 0;
+}
+
+/* Services Section */
+.services-section {
+    background: url('images/services-bg.jpg') no-repeat center center/cover;
+    padding: 50px 0;
+}
+
+/* Gallery Section */
+.gallery-section {
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), 
+                url('images/gallery-bg.jpg') no-repeat center center/cover;
+    padding: 50px 0;
+}
+
+/* Contact Section */
+.contact-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
+                url('images/contact-bg.jpg') no-repeat center center/cover;
+    padding: 50px 0;
+}
